@@ -1,0 +1,14 @@
+{
+  "name": "tk-utils",
+  "description": "TK's utils",
+	"email": "tk+node-tk-jutils@tomaskafka.com",
+  "version": "0.0.1",
+  "private": false,
+  "main": "./tk.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+		"nodeunit": "*"
+  }
+}
+
