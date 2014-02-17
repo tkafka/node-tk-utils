@@ -1,7 +1,7 @@
 {
   "name": "tk-utils",
   "description": "TK's utils",
-	"email": "tk+node-tk-jutils@tomaskafka.com",
+	"email": "tk+node-tk-utils@tomaskafka.com",
   "version": "0.0.1",
   "main": "./tk.js",
   "dependencies": {
