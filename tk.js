@@ -6,3 +6,4 @@ module.exports.humanSize = require('./utils/humanSize');
 module.exports.math = require('./utils/math');
 module.exports.random = require('./utils/random');
 module.exports.string = require('./utils/string');
+module.exports.stupidDeepClone = require('./utils/stupidDeepClone');
